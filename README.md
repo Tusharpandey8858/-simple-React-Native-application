@@ -26,6 +26,7 @@ React Native:
 Used for building mobile applications for iOS and Android.
 Renders components to native UI elements.
 Utilizes native components and APIs.
+
 4. Styling in React Native:
 React Native uses a subset of CSS for styling. However, there are some differences. For example, you use StyleSheet to define styles, and the style properties are camelCased.
 jsx
@@ -43,6 +44,7 @@ const styles = StyleSheet.create({
     color: 'blue',
   },
 });
+
 5. Navigation in React Native:
 React Navigation is a popular library for handling navigation in React Native. It provides a simple and customizable way to navigate between screens.
 jsx
